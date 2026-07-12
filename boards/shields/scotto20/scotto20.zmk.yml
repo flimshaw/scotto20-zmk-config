@@ -1,0 +1,10 @@
+file_format: "1"
+id: scotto20
+name: "Scotto20"
+type: shield
+url: ""
+requires: ["nice_nano"]
+features:
+  - keys
+siblings:
+  - scotto20

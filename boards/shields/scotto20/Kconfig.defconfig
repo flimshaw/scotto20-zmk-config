@@ -1,0 +1,6 @@
+if SHIELD_SCOTTO20
+
+config ZMK_KEYBOARD_NAME
+    default "Scotto20"
+
+endif

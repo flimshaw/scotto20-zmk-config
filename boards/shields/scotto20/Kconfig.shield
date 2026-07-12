@@ -1,0 +1,2 @@
+config SHIELD_SCOTTO20
+    def_bool $(shield_is,scotto20)
