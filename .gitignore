@@ -1,2 +1,6 @@
 
 .zmk/
+.DS_Store
+*.uf2
+*.hex
+scotto20-dfu.zip
